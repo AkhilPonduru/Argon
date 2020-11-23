@@ -12,6 +12,29 @@
     background-image: url(https://static.airtable.com/images/hero_images/hero_image_1.jpg);
 }
 
+
+#akshay {
+    width: auto;
+    height: 200px;
+    background-color: lawngreen;
+}
+.h1{
+    font-size: 24px;
+    text-align: center;
+    margin: 40px;
+    color: rgb(35, 35, 36);
+}
+#box{
+    width: auto;
+    height: 50px;
+    
+}
+.img{
+    float: left;
+    margin: 4px;
+    
+}
+
 .gap{
     height: 15%;
     width: 100%;
@@ -63,3 +86,4 @@
     position: sticky;
     top: 0;
 }
+
