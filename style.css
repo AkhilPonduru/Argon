@@ -68,8 +68,13 @@
     border: 0px;
     font-size: 20px;
     border-radius: 25px;
-    background-color: rgb(35, 168, 212);
+    background-color: rgb(51, 187, 233);
     color: white;
+    cursor: pointer;
+}
+
+.text button:hover {
+    background-color: rgb(4, 141, 187);
 }
 
 .navTopLine {
@@ -119,6 +124,41 @@
 
 .float-right {
     float: right;
+}
+
+#seventh {
+    border: dashed pink;
+    height: 350px;
+    text-align: center;
+}
+
+.gap2 {
+    height: 15%;
+}
+
+#seventh button {
+    width: 250px;
+    height: 40px;
+    border: 0px;
+    font-size: 20px;
+    border-radius: 25px;
+    background-color: rgb(51, 187, 233);
+    color: white;
+    cursor: pointer;
+}
+
+#seventh button:hover {
+    background-color: rgb(4, 141, 187);
+}
+
+#head {
+    font-size: 65px;
+    font-weight: 500;
+}
+
+.para {
+    font-size: 20px;
+    color: rgb(82, 77, 77);
 }
 
 .videoDiv {
@@ -198,22 +238,24 @@
 #box1 {
     width: auto;
     height: 500px;
-    background-color: skyblue;
+    background-color: hsl(0, 0, 20);
     margin: 50px;
     border-radius: 10px;
 }
 
-.h2 {
+#box1.h2 {
     text-align: center;
-    font-size: 100px;
+    font-size: 64px;
     color: rgb(74, 74, 85);
-    padding: 20px;
+    margin-bottom: 24px;
 }
 
-.p {
+#box1.p {
     text-align: center;
-    font-size: 50px;
-    color: rgb(74, 74, 85);
+    font-size: 20px;
+    color: #666666;
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
 
 #box1 button {
