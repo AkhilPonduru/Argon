@@ -154,6 +154,8 @@
 }
 
 .bottom img{
+    width: 85%;
+    height: 65%;
     border-radius: 10px;
     margin-left: 3%;
 }
