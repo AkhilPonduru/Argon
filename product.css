@@ -1,0 +1,279 @@
+#nav_bar{
+    height: 60px;
+    width: 100%;
+    display: inline;
+    float: left;
+    margin-top: 0%;
+    padding-top: 0%;
+    background-color: white;
+    border-bottom: 1px solid rgb(168, 163, 163);
+    position : sticky;
+    top: 0;
+    font-family: Helvetica,Arial,sans-serif; 
+}
+
+#gap{
+    height: 2px;
+    width: 100%;
+}
+#nav_bar img{
+    width: 3%;
+    height: 60%;
+    float: left;
+    margin-top: 0.7%;
+    margin-left: 15%;
+}
+.air{
+    float: left;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.nav{
+    float: left;
+    font-weight: 600;
+    margin-top: 1.2%;
+    margin-left: 3%;
+}
+
+#signup{
+    width: 6%;
+    height: 70%;
+    text-align: center;
+    margin-right: 15%;
+    font-weight: 600;
+    margin-top: 0.5%;
+    background-color: rgb(26, 102, 245);
+    border-radius: 25px;
+    color: white;
+    float: right;
+}
+
+#signup:hover{
+    background-color: rgb(26, 85, 196);
+}
+
+.right{
+    float: right;
+    font-weight: 600;
+    margin-top: 1.2%;
+    margin-right: 3%;
+}
+
+#blue_box{
+    height: 440px;
+    width: 100%;
+    background-color: rgb(26, 102, 245);
+}
+
+#blue_box p{
+    color: white;
+    text-align: center;
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+    padding-top: 6%;
+}
+
+#second_nav{
+    height: 40px;
+    width: 100%;
+    display: inline;
+    float: left;
+    /* position:  -webkit-sticky;
+    position: sticky;
+    top: 0; */
+    border: 1px solid rgb(168, 163, 163);
+}
+
+#data{
+    color: rgb(26, 102, 245);
+    float: left;
+    font-weight: 600;
+    margin-left: 15%;
+    font-family: Helvetica,Arial,sans-serif;
+
+}
+
+.left{
+    margin-left: 3%;
+    float: left;
+    font-weight: 600;
+    font-family: Helvetica,Arial,sans-serif;
+}
+
+#create{
+    width: 100%;
+    height: 600px;
+    font-family: Helvetica,Arial,sans-serif;
+}
+
+#left{
+    width: 45%;
+    height: 100%;
+    float: left;
+    /* border: 1px solid black; */
+}
+
+#right{
+    width: 50%;
+    height: 100%;
+    float: left;
+    /* border: 1px solid black; */
+}
+
+.one{
+    font-size: 55px;
+    font-weight: 600;
+    margin-top: 15%;
+    margin-left: 32%;
+}
+
+.two{
+    font-size: 20px;
+    color: grey;
+    margin-left: 32%;
+}
+
+#right .top{
+    display: flex;
+    flex-direction: row;
+    color: grey;
+}
+
+.top p{
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 3%;
+    margin-top: 6%;
+}
+
+.top p:hover{
+    color: black;
+    cursor: pointer;
+}
+
+.bottom img{
+    border-radius: 10px;
+    margin-left: 3%;
+}
+
+#configure{
+    width: 100%;
+    height: 600px;
+    float: left;
+    background-color: floralwhite;
+    font-family: Helvetica,Arial,sans-serif;
+}
+
+#config_left{
+    width: 60%;
+    height: 100%;
+    float: left;
+    /* border: 1px solid black; */
+}
+
+#config_left .top{
+    display: flex;
+    flex-direction: row;
+    color: grey;
+    margin-left: 21%;
+}
+
+#config_left .bottom{
+    margin-left: 21%;
+}
+
+#config_left .bottom img{
+    width: 80%;
+    height: 65%;
+    border-radius: 10px;
+    margin-left: 3%;
+}
+
+#config_left .bottom p{
+    color: grey;
+    margin-left: 3%;
+    margin-top: 0%;
+    font-weight: 600;
+}
+
+#config_left .bottom a{
+    color:black;
+    font-weight: 600;
+}
+
+#config_right{
+    width: 39%;
+    height: 100%;
+    float: left;
+    /* border: 1px solid black; */
+}
+
+#config_right .one{
+    font-size: 55px;
+    font-weight: 600;
+    margin-top: 15%;
+    margin-left: 3%;
+}
+
+#config_right .two{
+    font-size: 20px;
+    color: grey;
+    margin-left: 3%;
+}
+
+#extend{
+    width: 100%;
+    height: 600px;
+    font-family: Helvetica,Arial,sans-serif;
+}
+
+#extend_left{
+    width: 45%;
+    height: 100%;
+    float: left;
+    /* border: 1px solid black; */
+}
+
+#extend_right{
+    width: 50%;
+    height: 100%;
+    float: left;
+    /* border: 1px solid black; */
+}
+
+#extend_right .top{
+    display: flex;
+    flex-direction: row;
+    color: grey;
+}
+
+#extend_right .bottom img{
+    width: 75%;
+    height: 70%;
+}
+
+#extend_right .bottom p{
+    margin-left: 3%;
+    color: grey;
+}
+
+#pink{
+    text-align: center;
+    width: 10%;
+    height: 6%;
+    background-color: hotpink;
+    color: white;
+    border-radius: 20px;
+    margin-top: 15%;
+    margin-left: 32%;
+}
+
+#pink p{
+    padding-top: 10px;
+}
+
+#extend_left .one{
+    margin-top: 0%;
+}
