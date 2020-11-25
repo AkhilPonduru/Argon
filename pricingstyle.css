@@ -1,0 +1,179 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.fas {
+    size: 5px;
+}
+
+.main {
+    display: flex;
+    margin: 5%;
+    margin-bottom: 1%;
+    flex-direction: column;
+    border: 1px red solid;
+}
+
+
+.firstSection {
+    display: flex;
+}
+
+.sample {
+    flex-basis: 35%;
+    height: 1600px;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    padding-left: 10px;
+}
+
+.free {
+    flex-basis: 16%;
+    height: 1600px;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    text-align: center;
+}
+
+.plus {
+    flex-basis: 16%;
+    height: 1790px;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    text-align: center;
+    background-color: #D0F0FD;
+    border-radius: 15px;
+
+}
+
+.pro {
+    flex-basis: 16%;
+    height: 1790px;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    text-align: center;
+    background-color: #FFEAB6;
+    border-radius: 15px;
+
+}
+
+.enterprise {
+    flex-basis: 16%;
+    height: 1790px;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    text-align: center;
+    background-color: #333333;
+    color: white;
+    border-radius: 15px;
+}
+
+.featureTag {
+    color: gray;
+    height: 20px;
+    padding-top: 40px;
+    padding-bottom: 5px;
+}
+
+.featureText>p {
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+.tick {
+    width: 15px;
+}
+
+.pad {
+    padding-top: 5px;
+}
+
+.essentialDiv {
+    height: 225px;
+}
+
+.syncDiv {
+    height: 140px;
+}
+
+.advancedDiv {
+    height: 330px;
+}
+
+.supportDiv {
+    height: 240px;
+}
+
+.adminDiv {
+    height: 280px;
+}
+
+.linkDiv {
+    height: 30px;
+    color: #2D7FF9;
+    padding: 10px;
+
+}
+
+.underLineDiv {
+    height: 3px;
+    width: 40%;
+    background-color: #2D7FF9;
+    margin: auto;
+    margin-top: 4px;
+    border-radius: 5px;
+}
+
+.priceDiv {
+    height: 110px;
+    font-size: 45px;
+    padding-top: 40px;
+}
+
+.priceText {
+    font-size: 15px;
+}
+
+
+.secondSection {
+    margin: 0px auto;
+    flex-basis: 100%;
+}
+
+.textCenter {
+    text-align: center;
+}
+
+.partnerImg {
+    width: 93%;
+    margin: 3%;
+}
+
+.que {
+    border: 1px red solid;
+    display: grid;
+    margin: 5%;
+    margin-top: 1%;
+    grid-template-rows: 100px 100px;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 20px;
+    padding: 10px;
+}
+
+.qText {
+    grid-column: 1/7;
+    border: 1px chocolate solid;
+}
+
+.queDiv1 {
+    border: 1px red solid;
+    grid-column: 3/4;
+    text-align: center;
+}
+
+.queDiv2 {
+    border: 1px red solid;
+    grid-column: 4/5;
+    text-align: center;
+}
