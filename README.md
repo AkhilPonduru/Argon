@@ -20,16 +20,16 @@ Airtable is a website where you can customize your tools based on your requireme
 - Listing the price of the respective product.
 
 ### Akhil Ponduru 
-- Github: @AkhilPonduru/github.com
-- Email :  (akhilponduru02@gmail.com)
+- Github: https://github.com/AkhilPonduru
+- Email : akhilponduru02@gmail.com)
 - Linkedin: Akhil Ponduru
 
 ### Akash Vaghela
-- Github: 
-- Email :  
-- Linkedin:
+- Github: https://github.com/akashvaghela09
+- Email :  akashvaghela09@gmail.com
+- Linkedin: https://www.linkedin.com/in/akashvaghela09
 
 ### Akshay Malge
-- Github: 
-- Email :  
-- Linkedin:
+- Github: https://github.com/armalge
+- Email :  akshaymalge98@gmail.com
+- Linkedin :https://www.linkedin.com/in/akshay-malge-90321b200/ 

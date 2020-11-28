@@ -4,6 +4,23 @@
 }
 
 
+.titleSize {
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.marginTop {
+    margin-top: 30px;
+}
+
+.para2 {
+    font-size: 25px;
+}
+
+.blue {
+    color: #2D7FF9;
+}
+
 /* Navigation Bar Code Starts Here */
 
 .newInfo {
@@ -88,6 +105,8 @@
     size: 5px;
 }
 
+
+
 .main {
     display: flex;
     margin: 5%;
@@ -118,7 +137,7 @@
 
 .plus {
     flex-basis: 16%;
-    height: 1790px;
+    height: 1890px;
     margin-left: 0.5%;
     margin-right: 0.5%;
     text-align: center;
@@ -129,7 +148,7 @@
 
 .pro {
     flex-basis: 16%;
-    height: 1790px;
+    height: 1890px;
     margin-left: 0.5%;
     margin-right: 0.5%;
     text-align: center;
@@ -140,7 +159,7 @@
 
 .enterprise {
     flex-basis: 16%;
-    height: 1790px;
+    height: 1890px;
     margin-left: 0.5%;
     margin-right: 0.5%;
     text-align: center;
@@ -159,6 +178,12 @@
 .featureText>p {
     padding-top: 7px;
     padding-bottom: 7px;
+}
+
+.nameDiv {
+    height: 50px;
+    border: 1px red solid;
+    background-color: white;
 }
 
 .tick {
@@ -209,6 +234,8 @@
     height: 110px;
     font-size: 45px;
     padding-top: 40px;
+    border-radius: 15px;
+
 }
 
 .priceText {

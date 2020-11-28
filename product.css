@@ -149,32 +149,32 @@ a {
 }
 
 .div {
-    width: 750px;
+    width: 60%;
     height: 500px;
     float: left;
     /*border: 1px solid black;*/
-    margin-left: 20px;
-    padding: 10px;
+    margin: 20px;
+
 }
-.div2{
-    width: 400px;
+
+.div2 {
+    width: 30%;
     height: 500px;
     float: left;
     /*border: 1px solid black;*/
-    margin-left: 20px;
-    padding: 10px;
+    margin: 20px;
+
 }
+
 .a {
     float: left;
     margin: 10px;
-    
-
 }
+
 .b {
     margin: auto;
     height: 600px;
     padding: 10px;
-    
 }
 
 .p {
@@ -185,21 +185,20 @@ a {
     border-radius: 25px;
     text-align: center;
     color: white;
+    margin: 30px;
 }
 
 .h2 {
     font-size: 40px;
-    margin: auto;
+    margin: 25px;
     color: rgb(0, 0, 20);
-  
 }
 
 .p1 {
     font-size: 20px;
-    margin: auto;
+    margin: 20px;
     color: rgb(0, 0, 20);
 }
-
 
 #integrate {
     width: 100%;
@@ -207,18 +206,21 @@ a {
     margin: 5px;
     /*border: 1px solid red;*/
 }
-.just{
-    width: 400px;
+
+.just {
+    width: 25%;
     height: 450px;
     /*border: 1px solid black;*/
     float: left;
     margin: 20px;
 }
-.hig{
+
+.hig {
     margin: 20px;
     font-size: 50px;
 }
-.to{
+
+.to {
     margin: 20px;
     font-size: 20px;
 }
@@ -228,7 +230,8 @@ a {
     font-size: 25px;
     color: blue;
 }
-.col{
+
+.col {
     width: 800px;
     height: 450px;
     /*border: 1px solid black;*/
@@ -256,7 +259,7 @@ a {
 }
 
 .div1 {
-    width: 300px;
+    width: 25%;
     height: 300px;
     /*border: 1px solid rebeccapurple;*/
     float: left;
@@ -273,41 +276,48 @@ a {
 }
 
 .just1 {
-    width: 300px;
+    width: 25%;
     height: 450px;
     /*border: 1px solid black;*/
-    margin: 20px;
+    margin: 15px;
     float: left;
 }
 
 .img {
     float: left;
-    margin-left: 50px;
+    margin: 15px;
+    width: 70%;
+    height: 450px;
+    /*border: 1px solid black;*/
 }
 
 .h3 {
-    font-size: 50px;
+    font-size: 40px;
     margin: 10px;
     color: rgb(0, 0, 20);
 }
 
+.page {
+    margin: 15px;
+    font-size: 20px;
+}
+
 #build {
     width: 100%;
-    height: 300px;
+    height: 400px;
     margin: 5px;
     background-color: blue;
 }
 
-
 .flex {
-    width: 700px;
-    height: 340px;
+    width: 70%;
+    height: 300px;
     /*border: 1px solid black;*/
     margin: auto;
     text-align: center;
     padding: 10px;
-
 }
+
 .h4 {
     color: white;
     text-align: center;
@@ -316,12 +326,12 @@ a {
 }
 
 .p2 {
-    width: 500px;
+    width: 30%;
     height: 100px;
     color: white;
     text-align: center;
     font-size: 15px;
-    margin-left:  30px;
+    margin: auto;
     padding: 50px;
 }
 
@@ -330,5 +340,6 @@ a {
     /*border: 1px solid red;*/
     border-radius: 5px;
     font-size: 40px;
-    color: blue;
+    color: #2d7ff9;
+    fill: #2d7ff9;
 }
