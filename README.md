@@ -32,4 +32,4 @@ Airtable is a website where you can customize your tools based on your requireme
 ### Akshay Malge
 - Github: https://github.com/armalge
 - Email :  akshaymalge98@gmail.com
-- Linkedin :Akshay Malge
+- Linkedin :https://www.linkedin.com/in/akshay-malge-90321b200/ 
