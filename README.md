@@ -21,7 +21,7 @@ Airtable is a website where you can customize your tools based on your requireme
 
 ### Akhil Ponduru 
 - Github: https://github.com/AkhilPonduru
-- Email : akhilponduru02@gmail.com)
+- Email : akhilponduru02@gmail.com
 - Linkedin: Akhil Ponduru
 
 ### Akash Vaghela
