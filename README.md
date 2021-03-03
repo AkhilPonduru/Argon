@@ -1,4 +1,3 @@
-# Team Argon
 # Airtable
 Airtable is a website where you can customize your tools based on your requirement irrespective of the field.
 
